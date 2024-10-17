@@ -28,6 +28,8 @@ export default function Home() {
 
           <div>inclusao de uma ddiv sem paragrafo</div>
 
+          <i>inclui a tag i</i>
+
       </main>
     </>
   );
