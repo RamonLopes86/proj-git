@@ -32,6 +32,15 @@ export default function Home() {
 
           <p>lorem lorem isum </p>
 
+          <div>
+
+              <mark>teste</mark>
+              <mark>teste</mark>
+              <mark>teste</mark>
+              <mark>teste</mark>
+              
+          </div>
+
       </main>
     </>
   );
