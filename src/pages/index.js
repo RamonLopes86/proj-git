@@ -26,6 +26,8 @@ export default function Home() {
 
           <p>coloquei um paragrafo com mais uma alteração</p>
 
+          <div>inclusao de uma ddiv sem paragrafo</div>
+
       </main>
     </>
   );
