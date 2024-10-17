@@ -30,6 +30,8 @@ export default function Home() {
 
           <i>inclui a tag i</i>
 
+          <p>lorem lorem isum </p>
+
       </main>
     </>
   );
