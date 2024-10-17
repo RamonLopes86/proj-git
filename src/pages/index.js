@@ -24,6 +24,8 @@ export default function Home() {
               temos mais uma alteração
           </aside>
 
+          <p>coloquei um paragrafo com mais uma alteração</p>
+
       </main>
     </>
   );
