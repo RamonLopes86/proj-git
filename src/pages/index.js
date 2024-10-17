@@ -32,12 +32,14 @@ export default function Home() {
 
           <p>lorem lorem isum </p>
 
-          <div>
+          <div style={{color:'red'}}>
 
-              <mark>teste</mark>
-              <mark>teste</mark>
-              <mark>teste</mark>
-              <mark>teste</mark>
+              <i>i</i>
+              <i>i</i>
+              <i>i</i>
+              <i>i</i>
+              <i>i</i>
+
               
           </div>
 
