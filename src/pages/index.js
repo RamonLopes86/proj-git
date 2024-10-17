@@ -20,6 +20,10 @@ export default function Home() {
 
           <p>paragrafo adicionado</p>
 
+          <aside>
+              temos mais uma alteração
+          </aside>
+
       </main>
     </>
   );
