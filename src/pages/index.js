@@ -16,7 +16,9 @@ export default function Home() {
       </Head>
       <main>
 
-          
+          <h1>titulo do site</h1>
+
+          <p>paragrafo adicionado</p>
 
       </main>
     </>
