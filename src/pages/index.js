@@ -39,6 +39,8 @@ export default function Home() {
 
           <p>lorem lorem isum </p>
 
+          <section> add uma section </section>
+
           <div style={{color:'red'}}>
 
               <i>i</i>
